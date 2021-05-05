@@ -25,14 +25,6 @@ I Spend most of time coding some cool projects.
 <br />
 <br />
 
-#### Bizness
-
-- :email: sy.aly.mamadou@gmail.com
-
-#### Profile Visits
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MamadouAlySy.MamadouAlySy)
-
 #### Github Stats
 
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=MamadouAlySy&count_private=true&theme=tokyonight&hide=contribs,prs)
