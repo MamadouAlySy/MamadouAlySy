@@ -20,4 +20,4 @@ I Spend most of time coding some cool projects.
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=MamadouAlySy&count_private=true&theme=graywhite&hide=contribs,prs)
 
 #### Most used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MamadouAlySy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
