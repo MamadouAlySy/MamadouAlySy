@@ -17,7 +17,8 @@ I Spend most of time coding some cool projects.
 [![PHP Badge](https://img.shields.io/badge/-PHP-blueviolet?style=for-the-badge&labelColor=black&logo=php&logoColor=blueviolet)](#)
 [![Symfony Badge](https://img.shields.io/badge/-Symfony-green?style=for-the-badge&labelColor=black&logo=symfony&logoColor=green)](#)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MamadouAlySy)](https://github.com/anuraghazra/github-readme-stats)
+
 #### Github Stats
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=MamadouAlySy&count_private=true&theme=graywhite&hide=contribs,prs) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MamadouAlySy)](https://github.com/anuraghazra/github-readme-stats)
