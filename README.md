@@ -4,7 +4,7 @@ I'm Mamadou Aly Sy a Junior Web Back-end Developer.
 I Spend most of time coding some cool projects.
 
 :mailbox: Reach me out!
-<img align="right" width="50%" src="https://github.com/MamadouAlySy/MamadouAlySy/blob/master/hero.png" />
+<img align="right" width="50%" src="https://github.com/MamadouAlySy/MamadouAlySy/blob/master/hero1.png" />
 [![Mail Badge](https://img.shields.io/badge/-sy.aly.mamadou-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sy.aly.mamadou@gmail.com)
 - 🔭 I’m currently a Student .
 - 📫 How to reach me: sy.aly.mamadou@gmail.com.
