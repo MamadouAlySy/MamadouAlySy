@@ -27,7 +27,7 @@ I Spend most of time coding some cool projects.
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 #### Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MamadouAlySy&show_icons=true&theme=gotham)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MamadouAlySy&show_icons=true&theme=vue)
 
 
 
