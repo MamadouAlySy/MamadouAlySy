@@ -1,7 +1,6 @@
 <!-- Visitor badge -->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MamadouAlySy.MamadouAlySy" />
 
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Popins&color=000&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mamadou+Aly+Sy!;" />
 </h1>
@@ -33,15 +32,16 @@
   </a>
   <a href="https://mamadoualysy.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-    <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
+
 <br/><br/>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2> <br/>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,java,python,php,c,cpp,cs,bootstrap,tailwind" />
-  <img src="https://skillicons.dev/icons?i=sass,nodejs,spring,django,flask,symfony,laravel,mysql,mongodb,postgres,sqlite,gulp,docker"
+  <img src="https://skillicons.dev/icons?i=sass,nodejs,spring,django,flask,symfony,laravel,mysql,mongodb,postgres,sqlite,gulp,docker" />
 </div>
 <br/>
 
