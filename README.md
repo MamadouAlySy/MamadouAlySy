@@ -10,9 +10,7 @@
   <img src="programmer.gif" width="400" />
 </div>
 
-<h3 align="center">A passionate backend developer from Mauritania 🇲🇷</h3>
-
-<br/>
+<h3 align="center">A passionate backend developer from Mauritania 🇲🇷</h3> <br/>
 
 <div align="center">
 
@@ -38,8 +36,7 @@
     <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-
-<hr border="fff" />
+<br/><br/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -48,25 +45,19 @@
   <br>
 </div>
 <br/>
-<hr/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MamadouAlySy/MamadouAlySy/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
 </div>
+<br/><br/>
 
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=MamadouAlySy&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=MamadouAlySy&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-MamadouAlySy.vercel.app/api/top-langs/?username=MamadouAlySy&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=500 src="https://github-readme-stats.vercel.app/api?username=MamadouAlySy&count_private=true&show_icons=true&rank_icon=github&border_radius=10" alt="readme stats" /> <br/>
+  <img width=500 src="https://streak-stats.demolab.com/?user=MamadouAlySy&count_private=true&border_radius=10" alt="streak stats"/> <br/>
+  <img width=500 align="center" src="https://github-readme-stats.vercel.app//api/top-langs/?username=MamadouAlySy&hide=HTML&langs_count=8&layout=compact&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
-<br/>
