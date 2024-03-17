@@ -1,51 +1,81 @@
-## Hi I'm Mamadou Aly Sy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-
-I'm Mamadou Aly Sy a Junior Web Back-end Developer.
-I Spend most of time coding some cool projects.
-
-<img align="right" width="50%" src="https://github.com/MamadouAlySy/MamadouAlySy/blob/master/hero1.png" />
-
-:mailbox: Reach me out!: 
-
-[![Mail Badge](https://img.shields.io/badge/-sy.aly.mamadou-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sy.aly.mamadou@gmail.com)
-
-- 🔭 I’m currently a Student .
-- 📫 How to reach me: sy.aly.mamadou@gmail.com.
-- 😄 Pronouns: Mo, Mamco, Sy, Fisher.
-- ⚡ Fun fact: I play games very often.
-
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{MamadouAlySy}/count.svg" alt="mamadou visitor count" /></p>
-
-#### Languages
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+<!-- Visitor badge -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MamadouAlySy.MamadouAlySy" />
 
 
-#### Tecnologies
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Popins&color=000&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mamadou+Aly+Sy!;" />
+</h1>
 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+<div align="center">
+  <img src="programmer.gif" width="400" />
+</div>
 
-![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+<h3 align="center">A passionate backend developer from Mauritania 🇲🇷</h3>
 
-#### Github Stats
+<br/>
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MamadouAlySy&layout=compact" />
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=MamadouAlySy&show_icons=true&theme=default" />
+<div align="center">
 
+  🔭 I’m currently working on **an ecommerce marketplace**
 
+  🌱 I’m currently learning **Docker, Nodejs, Express**
 
+  💬 Ask me about **Laravel, Symfony, Mysql... or anything [here](https://github.com/MamadouAlySy/MamadouAlySy/issues)**
+
+  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
+</div>
+
+<div align="center"> 
+  <a href="mailto:sy.aly.mamadou@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="www.linkedin.com/in/mamadou-aly-sy-78a191214" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://mamadoualysy.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+    <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+<hr/>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,c,java,mysql,flask" />
+  <br>
+</div>
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MamadouAlySy/MamadouAlySy/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-MamadouAlySy.vercel.app/?user=MamadouAlySy&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-MamadouAlySy.vercel.app/api?username=MamadouAlySy&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-MamadouAlySy.vercel.app/api/top-langs/?username=MamadouAlySy&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
